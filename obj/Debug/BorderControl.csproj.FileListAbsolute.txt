@@ -1,0 +1,7 @@
+E:\C#\BorderControl\bin\Debug\BorderControl.exe.config
+E:\C#\BorderControl\bin\Debug\BorderControl.exe
+E:\C#\BorderControl\bin\Debug\BorderControl.pdb
+E:\C#\BorderControl\obj\Debug\BorderControl.csprojAssemblyReference.cache
+E:\C#\BorderControl\obj\Debug\BorderControl.csproj.CoreCompileInputs.cache
+E:\C#\BorderControl\obj\Debug\BorderControl.exe
+E:\C#\BorderControl\obj\Debug\BorderControl.pdb
